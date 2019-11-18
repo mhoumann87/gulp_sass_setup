@@ -2,7 +2,7 @@
   "name": "gulp_sass_setup",
   "version": "0.0.1",
   "description": "A base set up for development with HTML, SASS and Gulp",
-  "main": "index.html",
+  "main": "gulpfile.js",
   "scripts": {
     "start": "nodemon gulp"
   },
