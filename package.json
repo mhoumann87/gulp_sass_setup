@@ -26,7 +26,6 @@
   "devDependencies": {
     "del": "^5.1.0",
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2",
-    "nodemon": "^1.19.4"
+    "gulp-sass": "^4.0.2"
   }
 }
