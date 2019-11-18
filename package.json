@@ -1,0 +1,32 @@
+{
+  "name": "gulp_sass_setup",
+  "version": "0.0.1",
+  "description": "A base set up for development with HTML, SASS and Gulp",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodemon gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhoumann87/gulp_sass_setup.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "html",
+    "development",
+    "setup"
+  ],
+  "author": "Michael Houmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhoumann87/gulp_sass_setup/issues"
+  },
+  "homepage": "https://github.com/mhoumann87/gulp_sass_setup#readme",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "nodemon": "^1.19.4"
+  }
+}
